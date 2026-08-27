@@ -1493,7 +1493,7 @@ dependencies = [
 ]
 
 [package.metadata]
-requires-dist = [{ name = "fastmcp", specifier = ">=3.4.7" }]
+requires-dist = [{ name = "fastmcp" }]
 
 [[package]]
 name = "tomli"
